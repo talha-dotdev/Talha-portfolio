@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Replace YOUR-DOMAIN.com with your real domain before deploying
-Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
+Sitemap: https://talha-portfolio-seven-kappa.vercel.app/sitemap.xml
